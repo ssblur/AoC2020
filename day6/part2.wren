@@ -1,5 +1,5 @@
 /// 
-//  Advent of Code 2020 Day 5 Part 2
+//  Advent of Code 2020 Day 6 Part 2
 //  I had not anticipated this.
 //  @author Patrick Emery
 

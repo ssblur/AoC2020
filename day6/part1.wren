@@ -1,5 +1,5 @@
 /// 
-//  Advent of Code 2020 Day 5 Part 1
+//  Advent of Code 2020 Day 6 Part 1
 //  My only language barrier is the one that keeps PHP out.
 //  @author Patrick Emery
 

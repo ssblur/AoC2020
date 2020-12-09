@@ -1,5 +1,5 @@
 /// 
-//  Advent of Code 2020 Day 5 Part 2
+//  Advent of Code 2020 Day 7 Part 2
 //  I've got baaaaaags, they're multiplyin'!
 //  And I'm loooooosin' contro-ol.
 //  @author Patrick Emery
