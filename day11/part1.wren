@@ -1,5 +1,5 @@
 /// 
-//  Advent of Code 2020 Day 10 Part 1
+//  Advent of Code 2020 Day 11 Part 1
 //  Conway's Game of Chair
 //  @author Patrick Emery
 

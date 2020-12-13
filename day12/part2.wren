@@ -1,5 +1,5 @@
 /// 
-//  Advent of Code 2020 Day 10 Part 1
+//  Advent of Code 2020 Day 12 Part 2
 //  I got class.
 //  @author Patrick Emery
 

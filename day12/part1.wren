@@ -1,5 +1,5 @@
 /// 
-//  Advent of Code 2020 Day 10 Part 1
+//  Advent of Code 2020 Day 12 Part 1
 //  I have barely been using language functions, and what better to school me than class?
 //  @author Patrick Emery
 
